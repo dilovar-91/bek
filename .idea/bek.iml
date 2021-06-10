@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/extras" isTestSource="false" packagePrefix="extras\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/lab404/laravel-impersonate/src" isTestSource="false" packagePrefix="Larapen\Impersonate\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/larapen/admin/src" isTestSource="false" packagePrefix="Larapen\Admin\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/larapen/laravel-distance/src" isTestSource="false" packagePrefix="Larapen\LaravelDistance\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/larapen/texttoimage/src" isTestSource="false" packagePrefix="Larapen\TextToImage\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/laravel/framework/src/Illuminate" isTestSource="false" packagePrefix="LarapenIlluminate\" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/spatie/laravel-feed/src" isTestSource="false" packagePrefix="Larapen\Feed\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
