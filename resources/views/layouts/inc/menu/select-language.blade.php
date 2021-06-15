@@ -14,12 +14,6 @@
 
 				</li>
 			@endforeach
-				<li class="dropdown-item">
-					<a href="{{ url('lang/tg') }}" tabindex="-1" rel="alternate" hreflang="tg">
-						<span class="lang-name">Точики</span>
-					</a>
-
-				</li>
 		</ul>
 	</li>
 @endif

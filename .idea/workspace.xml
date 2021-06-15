@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac18c73e-7097-4d63-9830-f7458188e89e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/fileinput.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/global.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/messages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/simditor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/sms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/tinymce.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tg/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bek.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/ru/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/ru/admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/inc/menu/select-language.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/inc/menu/select-language.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,6 +269,8 @@
       <workItem from="1623333025568" duration="1378000" />
       <workItem from="1623335170131" duration="1071000" />
       <workItem from="1623336275470" duration="2558000" />
+      <workItem from="1623395724256" duration="1080000" />
+      <workItem from="1623771233617" duration="677000" />
     </task>
     <servers />
   </component>
