@@ -11,7 +11,6 @@
 					<a href="{{ url('lang/' . $langCode) }}" tabindex="-1" rel="alternate" hreflang="{{ $langCode }}">
 						<span class="lang-name">{!! $lang['native'] !!}</span>
 					</a>
-
 				</li>
 			@endforeach
 		</ul>
