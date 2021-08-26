@@ -13,5 +13,6 @@ Disallow: /vendor/
 Disallow: /main.php
 Disallow: /mix-manifest.json
 
-Sitemap: http://bek/ru/sitemaps.xml
-Sitemap: http://bek/tj/sitemaps.xml
+Sitemap: https://migrantmarket.ru/ru/sitemaps.xml
+
+Host: https://migrantmarket.ru
